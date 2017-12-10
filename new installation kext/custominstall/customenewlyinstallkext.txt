@@ -1,0 +1,21 @@
+total 2704
+drwx------+ 20 fisummerox  staff    680 Dec 10 09:36 .
+drwxr-xr-x+ 20 fisummerox  staff    680 Dec 10 09:37 ..
+-rw-r--r--@  1 fisummerox  staff   8196 Dec 10 09:36 .DS_Store
+-rw-r--r--   1 fisummerox  staff      0 Dec 10 05:07 .localized
+drwxrwxrwx   3 fisummerox  staff    102 Dec 10  2017 FakePCIID.kext
+drwxrwxrwx   3 fisummerox  staff    102 Dec 10  2017 FakePCIID_AR9280_as_AR946x.kext
+drwxrwxrwx   3 fisummerox  staff    102 Dec 10  2017 FakePCIID_BCM57XX_as_BCM57765.kext
+drwxrwxrwx   3 fisummerox  staff    102 Dec 10  2017 FakePCIID_Broadcom_WiFi.kext
+drwxrwxrwx   3 fisummerox  staff    102 Dec 10  2017 FakePCIID_Intel_GbX.kext
+drwxrwxrwx   3 fisummerox  staff    102 Dec 10  2017 FakePCIID_Intel_HDMI_Audio.kext
+drwxrwxrwx   3 fisummerox  staff    102 Dec 10  2017 FakePCIID_Intel_HD_Graphics.kext
+drwxrwxrwx   3 fisummerox  staff    102 Dec 10  2017 FakePCIID_XHCIMux.kext
+drwxrwxrwx@  3 fisummerox  staff    102 Dec 10  2017 FakeSMC.kext
+drwxrwxrwx   3 fisummerox  staff    102 Dec 10  2017 IO80211Family.kext
+-rwxrwxrwx@  1 fisummerox  staff  12487 Jan 22  2016 KextBeast.pkg
+drwxrwxrwx   3 fisummerox  staff    102 Dec 10 07:25 ShadowsocksX-NG.1.7.0
+drwxrwxrwx@  3 fisummerox  staff    102 Dec 10  2017 USBInjectAll.kext
+drwxrwxrwx@  3 fisummerox  staff    102 Dec 10  2017 VoodooPS2Controller.kext
+-rw-r--r--   1 root        staff   1605 Dec 10 09:37 newlyinstallkext.txt
+-rw-r--r--   1 root        staff      0 Dec 10 09:36 test
