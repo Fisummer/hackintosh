@@ -11,6 +11,10 @@ file relate about the system
 
 1."sierra tweak working clover"  : this file is working great with the new installation sierra system with just and nother two file install to the /L/E
 2."new installation kext"	: this folder contain kext file with newly install osx system in the /S/L/E and /L/E
+3.working function as below
+    a.graphics display working good
+    b.wifi working good with the IOFAMILY.....
+
 
 
 to do fix the sound and sleep and the backlight
