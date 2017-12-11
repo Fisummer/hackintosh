@@ -15,6 +15,11 @@ file relate about the system
     a.graphics display working good
     b.wifi working good with the IOFAMILY.....
 
+to do list
+
+backlight  fixed 
+guid:https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightinjector-kext.218222/
+
 
 
 to do fix the sound and sleep and the backlight
