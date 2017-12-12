@@ -1,0 +1,5 @@
+should i drop all the oem table ?
+
+1. as Rehabman said in the post https://www.tonymacx86.com/threads/help-on-dropping-ssdts.124552/ 
+he said we should drop all the cpu related table and should drop all the oem table and add what we need
+
