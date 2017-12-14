@@ -5,3 +5,8 @@
 3.the dsdt patch with clover (like rename IGFXO to IGPU) just apply to the dsdt and the native ssdt it's very important to know that
 these patches do not apply to the ACPI/patches in you place in the clover
 
+
+4. Note: All ACPI identifiers are 4 characters. Shorter names are padded with underscore. So, for example, XHC is represented in the AML binary as XHC_, EC would be EC__, EC0 would be EC_, MEI would be MEI_, etc.
+
+5. my alc892 laptop layout id is 4
+
