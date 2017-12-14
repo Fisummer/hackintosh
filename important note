@@ -1,3 +1,7 @@
 1 . DTGP method must include the DTGP method in the dsdt table under the top level scope mean not inside any device
 2. the codec-id can get in linux and my alc892 codec id is 0x10ec0892 scheme 0xvendor id + device id so hte 10ec is the realtk vendor and my id is 0892
     and the layoutid mean the line-in and out struct usually laptop should be 3 and begin with 07
+    
+3.the dsdt patch with clover (like rename IGFXO to IGPU) just apply to the dsdt and the native ssdt it's very important to know that
+these patches do not apply to the ACPI/patches in you place in the clover
+
